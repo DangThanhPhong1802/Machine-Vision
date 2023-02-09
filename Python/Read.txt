@@ -1,1 +1,4 @@
-
+Phần mềm lập trình Python : 
+  - Pycharm : https://www.jetbrains.com/pycharm/download/#section=windows
+  - Visual Studio Code : https://code.visualstudio.com/download
+Thư viện xử lý ảnh : OpenCV
